@@ -1,0 +1,38 @@
+.butt {
+    background-color: aqua;
+    font-size: 28px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#header {
+    text-align: center;
+    font-size: 64px;
+    color: red;
+
+}
+
+html {
+    background-color: blue;
+}
+
+#doggy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#spam {
+    margin-right: 20px;
+}
+#smash {
+    margin-right: 20px;
+}
+#choc {
+    margin-right: 20px;
+}

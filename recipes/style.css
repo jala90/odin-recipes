@@ -1,0 +1,27 @@
+#picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html {
+    background-color: blue;
+}
+
+.main {
+    color: red;
+    font-size: 48px;
+    text-align: center;
+}
+
+#recipe {
+    color: red;
+    font-size: 36px;
+    margin-left: 450px;
+}
+
+#header {
+    text-align: center;
+    font-size: 64px;
+    color: red;
+}
